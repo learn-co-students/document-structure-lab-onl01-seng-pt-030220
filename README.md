@@ -10,16 +10,16 @@ they work in context to the modern web.
 In this lesson, we will be both reviewing what we have learned about a well
 formed HTML document and expanding a bit on the `doctype`, `html` and `head`
 tags, as well as introducing how to add comments within our HTML code.
+4. Reinforce our understanding of document structure through creation
+
+## Reinforce Our Understanding Of The Basic HTML Document Structure
+
 
 ## Objectives
 
 1. Reinforce our understanding of the basic HTML document structure
 2. Introduce HTML comments
 3. Expand our understanding of the `head` section and its contents
-4. Reinforce our understanding of document structure through creation
-
-## Reinforce Our Understanding Of The Basic HTML Document Structure
-
 Let's quickly review the bare essentials of an HTML document. In the provided
 `index.html` file, add the following tags:
 
