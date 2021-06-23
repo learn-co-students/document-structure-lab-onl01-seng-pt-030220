@@ -79,7 +79,7 @@ comments by wrapping the text we want like so:
 ```html
 <!-- This is a comment! -->
 ```
-
+<!-- this is a comment! -->
 Text included in a comment will not be visible on the webpage, but will be
 visible in the browser console and `.html` file.
 
